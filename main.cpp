@@ -6,6 +6,7 @@
 #include "EntitasPP/Matcher.hpp"
 #include "EntitasPP/Pool.hpp"
 #include <iostream>
+#include <string>
 
 using namespace EntitasPP;
 
